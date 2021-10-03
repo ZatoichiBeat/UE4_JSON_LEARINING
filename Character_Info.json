@@ -1,0 +1,37 @@
+{
+  "UserInfo":[
+    {
+      UserId: "0",
+      "firstname": "Bob",
+      "Surname": "Smith",
+      "PlayerDesc": "Into Vr development",
+      "MaxGold": "523",
+      "Team": "Red",
+    },
+    {
+      UserId: "1",
+      "firstname": "Bob",
+      "Surname": "Smith",
+      "PlayerDesc": "Into Vr development",
+      "MaxGold": "523",
+      "Team": "Red",
+    },
+    {
+      UserId: "2",
+      "firstname": "Bob",
+      "Surname": "Smith",
+      "PlayerDesc": "Into Vr development",
+      "MaxGold": "523",
+      "Team": "Red",
+    },
+    {
+      UserId: "3",
+      "firstname": "Bob",
+      "Surname": "Smith",
+      "PlayerDesc": "Into Vr development",
+      "MaxGold": "523",
+      "Team": "Red",
+    },
+  ]
+}
+      
