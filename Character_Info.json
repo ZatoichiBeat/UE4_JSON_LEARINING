@@ -1,37 +1,37 @@
 {
   "UserInfo":[
     {
-      UserId: "0",
+      "UserId": "0",
       "firstname": "Bob",
       "Surname": "Smith",
       "PlayerDesc": "Into Vr development",
       "MaxGold": "523",
-      "Team": "Red",
+      "Team": "Red"
     },
     {
-      UserId: "1",
+      "UserId": "1",
       "firstname": "Dave",
       "Surname": "Valis",
       "PlayerDesc": "Into Vr Gaming",
       "MaxGold": "11111",
-      "Team": "Green",
+      "Team": "Green"
     },
     {
-      UserId: "2",
+      "UserId": "2",
       "firstname": "Chris",
       "Surname": "Jones",
       "PlayerDesc": "Into nothing",
       "MaxGold": "4093",
-      "Team": "Blue",
+      "Team": "Blue"
     },
     {
-      UserId: "3",
+      "UserId": "3",
       "firstname": "Nat",
       "Surname": "Matterson",
       "PlayerDesc": "Into Game",
       "MaxGold": "234",
-      "Team": "Orange",
-    },
+      "Team": "Orange"
+    }
   ]
 }
       
